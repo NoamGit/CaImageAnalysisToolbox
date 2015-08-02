@@ -1,0 +1,9 @@
+NormalizeWindowSizeSamples        100 
+CellCircleRadius                  10.000000 
+SegmentationMethod                2 
+SegmentationThresholdMargin       2.000000 
+ArtifactRemovalMethod             1 
+ArtifactRemovalBaseSigma          1.000000 
+ArtifactRemovalSubtractionFactor  0.800000 
+PeakDetectionMethod               4 
+PeakDetectThreshold               0.050000 
